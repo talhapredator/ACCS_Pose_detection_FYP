@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "424426123583",
+    "firebase_url": "https://newapp-8dea0-default-rtdb.firebaseio.com",
+    "project_id": "newapp-8dea0",
+    "storage_bucket": "newapp-8dea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424426123583:android:1d23932c344a5f2626238a",
+        "android_client_info": {
+          "package_name": "com.talhasapplicationdemo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLI2MbsWzshcm6U4DkKTEjhy9lXiqbms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
